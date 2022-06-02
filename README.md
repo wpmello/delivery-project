@@ -2,7 +2,7 @@
 ## Objetivo
 Programa Java desenvolvido para simular uma entrega de produtos. Seu intuito é por em prática os conceitos de Programação Orientada a Objetos
 
-##Tecnologias / Bibliotecas usadas
+## Tecnologias / Bibliotecas usadas
 - Lombok
 ---
 ## Baixe e execute na sua máquina
